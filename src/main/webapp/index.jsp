@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='blue'> Welcome to EXPONENT IT - Software Training Institute <font></h1>
+<h1><font color='blue'> Welcome to EXPONENT IT (BATCH-25) - Software Training Institute <font></h1>
 
 <a href="https://www.exponent-it.com/">Click Here To See EXPONENT IT Training Schedules</a>
   
